@@ -23,15 +23,9 @@
 [![C#](https://img.shields.io/badge/Csharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)]([https://www.java.com/](https://developer.mozilla.org/en-US/docs/Web/javascript))
 
-<!--
-#### 常使用的东西~w
-[![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
-[![Figma](https://img.shields.io/badge/Figma-1d1d1d.svg?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
-[![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.google.cn/chrome)
+
+#### Favorite tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Material Design](https://img.shields.io/badge/Material%20Design-757575.svg?style=flat-square&logo=material-design&logoColor=white)](https://material.io/)
--->
 
 <!--
 **Trcmoe/Trcmoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
