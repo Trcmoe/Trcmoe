@@ -19,13 +19,17 @@
 
 #### Currently using/studying
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Ren'Py](https://img.shields.io/badge/Renpy-FF7F7F.svg?style=flat-square&logo=renpy&logoColor=white)](https://www.renpy.org/)
 [![Java](https://img.shields.io/badge/Java-437291.svg?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
 [![C#](https://img.shields.io/badge/Csharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
 
-#### Favorite tools
+#### Tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-512BD4.svg?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![PyCharm Community Edition](https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![IntelliJ IDEA Community](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 <!--
 **Trcmoe/Trcmoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
