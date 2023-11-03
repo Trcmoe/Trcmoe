@@ -20,7 +20,7 @@
 #### Currently using/studying
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Ren'Py](https://img.shields.io/badge/Renpy-FF7F7F.svg?style=flat-square&logo=renpy&logoColor=white)](https://www.renpy.org/)
-[![Java](https://img.shields.io/badge/Java-437291.svg?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-437291.svg?style=flat-square&logo=OpenJDK&logoColor=white)](https://www.java.com/)
 [![C#](https://img.shields.io/badge/Csharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
