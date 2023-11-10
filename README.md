@@ -5,8 +5,8 @@
 ###### Laptop Environment
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
-[![CPU](https://img.shields.io/badge/CPU-Intel%20i9%2012900H-blue)](https://www.intel.com/content/www/us/en/products/sku/134599/intel-core-i912900k-processor-30m-cache-up-to-5-20-ghz/specifications.html)
-[![GPU](https://img.shields.io/badge/GPU-NVIDIA%20GeForce%20RTX%203060%20Laptop-green)](https://www.nvidia.com/en-gb/geforce/graphics-cards/30-series/)
+[![CPU](https://img.shields.io/badge/CPU-Intel%20i9%2012900H-blue?style=flat-square)](https://www.intel.com/content/www/us/en/products/sku/134599/intel-core-i912900k-processor-30m-cache-up-to-5-20-ghz/specifications.html)
+[![GPU](https://img.shields.io/badge/GPU-NVIDIA%20GeForce%20RTX%203060%20Laptop-green?style=flat-square)](https://www.nvidia.com/en-gb/geforce/graphics-cards/30-series/)
 
 ###### iOS Devices
 [![iOS 16](https://img.shields.io/badge/16-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-16/)
