@@ -2,6 +2,11 @@
 
 [![Tr✝cmoe](https://github.com/Trcmoe/Trcmoe/assets/88249678/578c6136-dd50-4fb7-b676-9efbca0925aa)](https://lab.nulla.top/ba-logo)
 
+##### Who am I
+Webmaster/Maintainer of [Cookie☆Wiki](https://cookie.wiki/%E9%A6%96%E9%A1%B5);
+Founder of [Arcomua Team](https://www.arcomua.com/);
+Owner of [Calibur Pixel](https://mc.calibur.tv/);
+
 ###### Laptop Environment
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
