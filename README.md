@@ -2,14 +2,15 @@
 
 [![Tr✝cmoe](https://github.com/Trcmoe/Trcmoe/assets/88249678/578c6136-dd50-4fb7-b676-9efbca0925aa)](https://lab.nulla.top/ba-logo)
 
-##### Who am I
+## Who am I
 Webmaster/Maintainer of [Cookie☆Wiki](https://cookie.wiki/%E9%A6%96%E9%A1%B5);
 
 Founder of [Arcomua Team](https://www.arcomua.com/);
 
 Owner of [Calibur Pixel](https://mc.calibur.tv/);
 
-###### Laptop Environment
+## Develop Enviroment
+###### Laptop
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 [![CPU](https://img.shields.io/badge/CPU-Intel%20i9%2012900H-blue?style=flat-square)](https://www.intel.com/content/www/us/en/products/sku/134599/intel-core-i912900k-processor-30m-cache-up-to-5-20-ghz/specifications.html)
